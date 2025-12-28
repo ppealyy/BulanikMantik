@@ -1,0 +1,23 @@
+# Build çıktıları
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Debug / Release
+Debug/
+Release/
+
+# Kullanıcı dosyaları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Paketler
+packages/
+
+# Log / temp
+*.log
+*.tmp
