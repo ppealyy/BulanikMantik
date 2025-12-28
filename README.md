@@ -1,21 +1,37 @@
-# Bulanık Mantık Çamaşır Makinesi
+# 🧺 Bulanık Mantık Çamaşır Makinesi
 
-Bu proje, C# WinForms kullanılarak geliştirilmiş bulanık mantık tabanlı
-bir çamaşır makinesi simülasyonudur.
+Bu proje, **C# WinForms** kullanılarak geliştirilmiş,  
+**bulanık mantık (fuzzy logic)** tabanlı bir çamaşır makinesi simülasyonudur.
 
-## Girdiler
-- Hassaslık
-- Miktar
-- Kirlilik
+Amaç; kullanıcıdan alınan belirsiz girdilere göre makinenin çalışma
+parametrelerini akıllı bir şekilde belirlemektir.
 
-## Çıktılar
-- Dönüş Hızı
-- Süre
-- Deterjan
+---
 
-## Uygulama Arayüzü
+## 📥 Girdiler
+- 🧵 **Hassaslık**
+- ⚖️ **Miktar**
+- 🟤 **Kirlilik**
+
+---
+
+## 📤 Çıktılar
+- 🔄 **Dönüş Hızı**
+- ⏱️ **Süre**
+- 🧴 **Deterjan Miktarı**
+
+---
+
+## 🖥️ Uygulama Arayüzü
 ![Uygulama Arayüzü](screenshots/arayuz.jpg)
 
-## Çalıştırma
-- BulanikMantik.sln dosyasını Visual Studio ile açın
-- Projeyi çalıştırın
+---
+
+## ▶️ Çalıştırma
+1. `BulanikMantik.sln` dosyasını **Visual Studio** ile açın.
+2. Projeyi **Build** edin ve çalıştırın.
+
+---
+
+## 📄 Lisans
+Bu proje **MIT License** ile lisanslanmıştır.
